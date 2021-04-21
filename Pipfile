@@ -1,0 +1,35 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+pandas = "*"
+matplotlib = "*"
+numpy = "*"
+mglearn = "*"
+tflearn = "*"
+scipy = "*"
+ipython = "*"
+sklearn = "*"
+Keras = "*"
+tensorflow = ">=2.3.1"
+imbalanced-learn = "*"
+graphviz = "*"
+pyod = "*"
+jupyter = "*"
+jupyterlab = "*"
+minisom = "*"
+susi = "*"
+seaborn = "*"
+requests = "*"
+tensorflow-federated = "*"
+nest-asyncio = "*"
+gast = "*"
+tensorboard = "*"
+flwr = "*"
+
+[requires]
+python_version = "3"
